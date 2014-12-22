@@ -1,0 +1,388 @@
+0 Dear? Are you free? Why don’t you go next door and say hello to the new neighbor? I heard that they are Circles!
+ -1 Oh? I do believe that I shall. 1
+ -2 Circles, oh joy. 1
+
+1 Hello there! You must be my neighbor! How are you?
+ -1 Hello neighbor! I am doing alright. What about yourself? 2
+ -2 I am meeting a Circle that moved next door to me. I could be better. 3
+
+2 I am alright, just finished some work in my garden out back.
+ -1 You have a garden? What are you growing? 4
+ -2 Oh? Are you a hard working type of person? 5
+
+3 Hey, I am not a bad person once you get to know me.
+ -1 I don't even want to you around, much less get to know you. 6
+ -2 Is that so? What do you do for a living? 7
+
+4 Mainly fruit and vegetables, with some herbs.
+ -1 You have a food garden? Man I wish I had the time for that. 8
+ -2 Man, that takes effort. I would just go to the store and buy it rather that grow it. 9
+ -3 You don't have to get your hands dirty, you can just go to the store and buy it!  10
+
+5 Sort of, I got into Merrill at UCSC. I studied biology and fell in love with plantlife.
+ -1 Hey, I went there as well! I studied Computer Science though. 11
+ -2 And that relates to plants how? 12
+ -3 Oh? You have been here for a while now? 13
+
+6 Just give me a chance! You have not known me for even an hour!
+ -1 Your point being? 14
+ -2 I know your type. Circles just pretend to be weak, then they appear out of nowhere and kill you. 15
+ -3 Very well then, you have an hour. 16
+
+7 I don't have a job. I can't find any.
+ -1 And is that because you are lazy? 17
+ -2 What did you study in college? 18
+ -3 You are not helping our case here. 19
+
+8 It does not take that much time, just a few hours a week it will take care of the rest.
+ -1 Eh... I really don't have the time to give. Even just that.  20
+ -2 Really? That little... hmmm... I might try it then. 21
+ -3 A few hours? Doesn't it hurt your back?  22
+ -4 Eh... I still prefer to go to the store.  23
+
+9 Yeah, A lot of people do. That is why there is a weight problem in this country.
+ -1 Haha, yeah. It is a big problem in this country... Pun intended. 24 
+ -2 I don't think growing gardens will solve the problem. 25
+ -3 ... Are you calling me fat? 26 
+
+10 I know, but I don't have a job right now. Are only source of income from my wife's job and it is sometimes barely enough to get by.
+ -1 Oh, yeah. I had similar issues after I left college. 27
+ -2 Man, that sucks. I hope you tell your wife that you love her each day! 28
+ -3 How do you not have a job? The job market is as strong as ever! 29
+
+11 Really? What a coincidence! What year did you graduate?
+ -1 l987. The CS major had just been introduced. Now I hear it is one of the biggest majors. 30
+ -2 Oh, years ago... Man Merrill was brand new back then. Guess it is now though. 31
+ -3 Oh, a long time ago... Great I feel old now. 32
+
+12 Biology is the study of life. I focused my studies more on ecological and environmental biology as I worked on my Masters and Doctors.
+ -1 Wow, I am talking to a doctor... This feels weird 33
+ -2 Sheesh, you worked hard... Still have students loans to pay back? 34
+ -3 So that means you know fancy words that relate to things on Earth... right? 35
+
+13 Yeah. My family got me here a little bit before the War started. I still have not heard about them since.
+ -1 Oh my. I am sorry to hear that. 36
+ -2 Oh... I am sure that they would not want you to be concerned about them, they are probably fine! 37
+ -3 Well then... At least you are here, right? 38
+
+14 Man, what did I ever do to you?
+ -1 It is not what you did, but what your people did. 39
+ -2 Oh, I don't know... maybe caused my shapes to lose a war and end up paying for it? 40
+
+15 What? Where are you getting this from?
+ -1 History, have you not read about it? 40
+ -2 Oh, you know. You know exactly where I am getting this. 39 
+
+16 What? Why are you doing this?
+ -1 Becasue I don't like you, that is why. 41
+ -2 What is the matter? I thought I was speaking clearly. You have an hour. 42
+
+17 I am not lazy! There are not many jobs that I can get these days.
+ -1 I am sure that is why you can't get a job. 42
+ -2 Of course, the poor job market. I am sure you could not get some sort of job if you really tried. 41
+
+18 I studied ecological and environmental biology, not the best for getting a job, but at least it is better than Medieval History.
+ -1 Anything is better that a degree in Medieval History, still does not mean you can get a job with that degree. 41
+ -2 Pffff! What made you think you could get a job with a degree in that? 43
+ -3 Just a heads up, you rarely get a job that relates to what you studied in college. 44
+
+19 Hey, I am at least trying to get along with you! What is your problem?
+ -1 I have a Circle living next door to me. That is my problem. 45
+ -2 I hate Circles, has that not been clear here? 46
+
+20 Oh well, It is not for everyone I guess.
+ -1 Yeah, I would also be worried about my back, with all the work in the dirt. 47
+ -2 We all have different things that we care about. Mine happen not to include gardening. 48
+
+21 Really? Great! I can help you decide what to grow and how to do it.
+ -1 Thanks, I would need the help. I am getting up there in the years. 49
+ -2 I wold not get to excited about it. I am likely just going to get a little window garden. 50
+
+22 No...? I have never had any issues with my back. Why do you ask?
+ -1 Because I do, it limits the things that i can do, such as growing a garden. 47
+ -2 Wait, no back pain at all? How old are you? 51
+
+23 Well it is your choice. All I can do is give you possible choices.
+ -1 Yes, and I thank you for not forcing them upon me. 52
+ -2 Yeah, it is my choice. I thank you for respecting it. 52
+
+24 Oh god, please tell me you don't like puns.
+ -1 What? They not punny enough for you? 53
+ -2 Hey, they are like gardens. They really grow on you. 53
+
+25 Of course not, but they can help.
+ -1 I know that. I used to have a little window garden. I might start doing that again. 50
+ -2 It is not a problem that can be solved just by eating right. 54
+
+
+26 Oh no no no no! I am just saying that it can cause weight problems due to lack of motion.
+ -1 Ok, just making sure. Not many people have the guts to call me fat. 55
+ -2 So you are calling me fat and lazy now? 56
+
+27 Yep, it seems to be common now. One partner can't find work, while the other barely makes anything.
+ -1 It could be worse, both of you could not have a job. 57
+ -2 Back when I graduated, my wife could not work and I could only hold a job for a few weeks at a time. I am glad that is over. 57
+
+28 I do, I just wish I could help her in some way.
+ -1 Find a job and help ease the financial burden for her. She would love that. 58
+ -2 Once you get a job and things become stable, get her a nice gift. 58
+
+29 There are not a lot of jobs in my field of work, and not many people want those jobs around.
+ -1 Your field of work is in the healthy eating area, right? Not a lot there that can change by itself. 54
+ -2 Just hope you can find a job before your wife lose hers. It happened to us a few times. 57
+
+30 Times have changed, It really is amazing how much everything can change.
+ -1 I hear you on that one. 59
+ -2 Completely true there. 59
+
+31 True, times change but seem to stay the same.
+ -1 I agree on that. 59
+ -2 Sort of like a loop, a circle. 60
+
+32 You don't look old, you look in the center of your prime!
+ -1 I wish. 61
+ -2 Then tell that to my back, it kills me daily. 47
+
+33 You telling me? It still feels weird that people say that.
+ -1 It will not last, let me tell you. 62
+ -2 After some time, you will wish that it mattered. 62
+
+34 Of course, I feel that I will never get rid of it.
+ -1 Hate to say it, but I am still paying off mine. I am glab that both me and my wife have jobs now. 57
+ -2 Just hope that is does not force you into any tight spaces. It almost did that to me and my wife. 57
+
+35 Yeah, although I feel that it has little point until I get a job.
+ -1 That is a big if, It took me a while to find a job after college. My wife was off and on in jobs as well. 57
+ -2 Both you and your wife might go through several jobs before you can finally relax. Happened to me and my wife. 57
+
+36 It is fine... I just want to see them again.
+ -1 If it is any condolence, I lost family in the War as well. 63
+ -2 I wish the same for my family. I lost them in the war as well. 63
+
+37 I hope so, but what happened to Circles in the camps.. I am not sure.
+ -1 It is hard for many people to find family again after the War. I have never found mine either. 63
+ -2 I heard the stories, I still think some of my family ended up in those camps. 63
+
+38 I guess so, but is just me now.
+ -1 Do't talk like that! You have your wife! Take care of her and treat her nice! It may not seem like much but she stand with you! 58
+ -2 Hey, listen. If you every need someone to talk to, you can talk to me. I also lost my family in the war. 63
+
+39 What? Oh... Don't tell me this is about the War!
+ -1 Of course it is! Do you know what it has damage it has caused me? 64
+ -2 Ding ding ding ding! Look who got the answer at last! 65
+
+40 Oh no, why did you have to bring up the War?
+ -1 Because it was all your filthy Circles fault that it happened, that is why! 65
+ -2 Don't you realize how much trama I went throught during the War? I lost everything! 64
+
+41 Come on! Why are you like this to me?
+ -1 I hate you and all of your kind. 66
+ -2 You are a Circle, I don't like Circles. 66
+
+42 Hey, you are not giving me a chance here! What is the matter with you?
+ -1 Circles, simple as that. 66
+ -2 That timer is still ticking Circle, better make it count. 66
+
+43 Hey man, It was what I wanted to study. Back off.
+ -1 Oh, a Circle is threating me! How scary! 66
+ -2 I am not backing off. This is my country. Circles do not belong in it. 66
+
+44 Hey man, I might get lucky and get a job where I use it.
+ -1 And I might be made of pure gold. 67
+ -2 One in a million, that is the chance you have. 67
+
+45 What do you have against Circles? We are not bad shapes.
+ -1 Not bad you say, then tell that to my family that is still missing! 64
+ -2 And yet you have infinite sides. How can you be good? 66
+
+46 Really dude? Why man?
+ -1 Your shapes are the worst, nothing to rest on, always rolling around, and causing trouble to others. 66
+ -2 Your shapes should go back to being wheels and serve us better shapes. 66
+
+47 Oh? What is wrong?
+ -1 I injuried my back a few years ago, now I try to do things that do not require me moving it as much. 68
+ -2 Real bad idea, tried to ski down an advanced slope. Now I can barely bend over. 68
+
+48 I can respect that. To each, his own.
+ -1 I second that. 69
+ -2 Amen to that. 69
+
+49 Hey, don't put yourself down! You can still do many things!
+ -1 Maybe if I had not injuried my back a few years ago. 68
+ -2 Yet my head is empty of hair and I need glasses to read. 70
+
+50 Man, I love window gardens! They always give that homely feeling to a house.
+ -1 I agree, It is the least that I can do with my back the way it is. 68
+ -2 If you say so, I just like the idea as I can't work the ground anymore due to my back injury. 68
+
+51 Twenty-seven, why?
+ -1 Wow, I am a lot older that you. 70
+ -2 That is it? I am now officially old. 70
+
+52 Of course, we all are different, in are own way.
+ -1 Agreed. 69
+ -2 Definitely. 69
+
+53 Oh god, please stop.
+ -1 Oxygen Potassium. 71
+ -2 Come on, don't let these jokes up root you. 71
+
+54 I know. It will take a lot to get the country healthy.
+ -1 Well it is nice to know that there are people out there that are will to try. 72
+ -2 At least you are trying to do your part. 72
+
+55 I can see why, you look like you are made of muscle.
+ -1 I wish, I am old and unable to do much these days. 70
+ -2 That was in the old days. The way my back is now, I would hurt myself more that others. 68
+
+56 No no no no no! I am just saying that it is a major problem in this country.
+ -1 I guess so, and I guess that you are trying to help solve that. 72
+ -2 I see. You working on that? 72
+
+57 Man that does not sound fun. I just hope I can find a job.
+ -1 It was not, but we got through it together. I can not recommend a better way than that. 73
+ -2 I trust that you will. Just remember to stay by your wife, she would do the same for you. 73
+
+58 Thanks I will. I don't know where I would be without her.
+ -1 All I know is that without my wife, I would be out in the streets. Keep on telling her that you love her. 73
+ -2 Neither of us would be anywhere without our wives. All we can do is repay the favor. 73
+
+59 Yep, but something I wish never changed.
+ -1 We all do, it is in shape nature to wish for that. 74
+ -2 We all do... we all do... 74
+
+60 Yeah, I guess your right. Like a circle...
+ -1 You ok? You seem a depressed now. 75
+ -2 Did something happen? You seem sad now. 75
+
+61 Don't beat yourself down! You can still be amazing!
+ -1 That would be true if my back had not been injuried. 68
+ -2 I would love to be amazing, I just can't move my back as much. 68
+
+62 Yeah, I know. These days that stuff does not matter as much.
+ -1 Yeah, just try and find a job that allows you to do what you enjoy. 76
+ -2 Well, all that matters is that you can do what you want to do and make money while doing it. 76
+
+63 Oh? What happened?
+ -1 I was over here when the revolution started. I lost contact with them shortly before the War began. I still do not know what happened to them. 77
+ -2 I was in college here when the War began. They tried to come over, but I have heard nothing since. 77
+
+64 I also lost my family in the War! How am I at fault?
+ -1 In war everyone loses someone, how does that make you any less to blame? 78
+ -2 Good! You deserve to lose everything you love, everything you care about! 78
+
+65 Come on dude! The War was years ago, why are you still bitter about it?
+ -1 I lost everyone I cared about in it. All thanks to you Circles! 79
+ -2 You fricking Circles caused it! How can I not be bitter about that? 79
+
+66 Are you kidding me? You are not going shapist on!
+ -1 Why? Because it is true that Circles are useless? 80
+ -2 It does not matter what you call it, it is the simple truth. 80
+
+67 Why are you doubting me so? What gives you the right?
+ -1 I am a better shape than you, that is what gives me the right. 80
+ -2 Because you are a circle, that is why. 80
+
+68 Have you considered a chiropractor? They might help you.
+ -1 I have, it is how I am able to still move around. 81
+ -2 I did, it only helped me stop using a walker to get around. 81
+
+69 It has been nice to meet you. I hope we can talk again.
+ -1 Likewise. 85
+ -2 I feel the same. 85
+
+70 Don't be like that! You are still able to do something!
+ -1 Barely, my chiropractor is the only thing that keeps me moving. 81
+ -2 I am falling apart. I see my chiropractor every week and my doctor every other. 81
+
+71 That is it. I am done. Good bye.
+ -1 Come on! Don't leaf me alone! 86
+ -2 Hey, you just need to branch out a little more. 86
+
+72 I wish I could, right now all I can do is work at the farmer's market to help people buy healthy.
+ -1 Well, I wish you good luck on your work. 87
+ -2 I can say that I feel you will work on the problem someday, Talk to you again soon. 87
+
+73 I hear you. My wife is the love of my life.
+ -1 My wife is too. I best not keep you from her too much longer. 88
+ -2 That is what love should be. I will let you get back to her then. 88
+
+74 I guess we will will always have our doubts.
+ -1 We will. Talk to you later. 89
+ -2 I hear you. How to see you again soon! 89
+
+75 I am fine... just a little... sad.
+ -1 If you need help I know a therapist that could help. 82
+ -2 I know a therapist if you want. He could help you. 82
+
+76 Man, I would love to be able to make money doing what I want, but that is a far-off dream.
+ -1 Hey, shoot for the moon! Even if your miss, you will land in the stars. 83
+ -2 If it is far-off, then chase it a little farther. You might be surprised how close you can get. 83
+
+77 Man, that is rough. You ok?
+ -1 I am now thanks to my therapist. I can give you his number if you want. 82
+ -2 Yes, I got professional help. I can give you my therapist's number if you want to talk with him. 82
+
+78 How can you say that to another who has lost just as much as you?
+ -1 You are a Cirlce. If it was not for you, none of this would happen. 84
+ -2 I can not forget the dead, so I will not forgive those responsible. 84
+
+79 For the last time I did not start the War! Others did!
+ -1 Just like a Circle to blame others, so cowardly. 84
+ -2 Pointing to others, are we? The same reason the War started. 84
+
+80 Are you serious right now?
+ -1 Of course I am, I hardly am not. 84
+ -2 Of course you doubt me, Circles never trust anyone. 84
+
+81 That does not make you helpless.
+ -1 No it does, but thanks for those kind words. I need to go back inside now. Hope to talk later. 90
+ -2 Thank you for that. I will see you later. 90
+
+82 I would like that. I guess I need some help myself.
+ -1 I understand, I can give you his number tomorrow. 91
+ -2 We all do at some point of our lives. It is what makes us shapes. 91
+
+83 Thanks for that. Makes me feel good.
+ -1 We all need a helping hand at times. Talk to you later. 92
+ -2 You are welcome. See you around. 92
+
+84 That is it, get away from my house right now.
+ -1 I will only comply because your house was starting to make me sick! 93
+ -2 Being high and mighty now, are we? I was going to leave anyway. 93
+
+85 So how was it dear?
+ -1 I made a new friend. 0
+ -2 They seem nice. 0
+
+86 So how was it dear?
+ -1 The Pun Master strikes again! 0
+ -2 It was punny, deer. 0
+
+87 So how was it dear?
+ -1 The husband wants to do his part to help the world. 0
+ -2 The man is a good man. 0
+
+88 So how was it dear?
+ -1 They remind me of us in the old days. 0
+ -2 The are a wonderful couple. 0
+
+89 So how was it dear?
+ -1 We talked like a couple of old friends. 0
+ -2 I could get used to him. 0
+
+90 So how was it dear?
+ -1 It is nice to meet kind young folk like them. 0
+ -2 I feel old, but I still feel fine. 0
+
+91 So how was it dear?
+ -1 I am giving the man the number to my therapist tomorrow. He needs it. 0
+ -2 The man's family was lost in the War. I am going to help him. 0
+
+92 So how was it dear?
+ -1 Wayward dreamers, reminds me of us. 0
+ -2 The man might be a dreamer, but that is what we need these days. 0
+
+93 So how was it dear?
+ -1 I introduced myself. 0
+ -2 I let them know their place. 0

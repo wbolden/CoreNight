@@ -1,0 +1,408 @@
+0 Hey honey! After you finish with garden why don't you introduce yourself to the neighbors? I will warn you, they are Triangles.
+ -1 Ok, don't worry I will manage! 1
+ -2 Guess I have to. 1
+
+1 Oh, hello neighbor! Are you new in town?
+ -1  Yep, just moved in. 2
+ -2  I hope that much is clear. 3
+
+2 Always nice to see a new face around here. How are you?
+ -1  Fine, been working on my garden in the back. 4
+ -2 Could be better, getting a little shakey. 5
+
+3 Eh? Something bothering you?
+ -1  Yes, something is. 6
+ -2  I am living next to triangles right now. I am living my worst nightmare. 7
+
+4 Oh? You a nature lover?
+ -1 Yes, I studied ecological and environmental biology in college. 8
+ -2 How would you do that? Would you find a knot in a tree first? 9
+ -3 Sort of, came with part of my family. 10
+
+5 Is something the matter?
+ -1 I get a little nervous around others. 11
+ -2 It is a bit cold, I guess. 12
+ -3 I saw a Triangle... nevermind. 13
+
+6 Can I help you with the issue?
+ -1 Yes, move away. 14
+ -2 No you can't. 15
+ -3 Never. 16
+
+7 How is that your worst nightmare?
+ -1  You shapes are murderers! 17
+ -2  My family is gone because of Trianlges. 18
+ -3  Triangles are nothing but warmongers! 19
+
+8 Oh, what college did you go to?
+ -1 I went to Merrill at UCSC. 20
+ -2 The big one above Santa Cruz. 21 
+ -3 One that I could take biology classes at. 22
+
+9 What are you talking about?
+ -1  You called me a nature lover. I am just trying to figure out how that would work. 23
+ -2  How one would be a nature lover. I guess women would have an easier time. Just need to find a branch that is small enough. 24
+
+10 What do you mean?
+ -1 My mom always spent a lot of time out in the forests of the old country. Guess the effects passed down to me. 25
+ -2 My dad was a farmer in the old country. Guess I share his love to grow things. 26
+
+11 Have you considered a therapist? They might help.
+ -1  No, The thought never crossed my mind. 27
+ -2  No, I could not stand being around them anyway. 28
+
+12 The sun is out, how is it cold?
+ -1  It is colder than the old country! 29
+ -2  I don't want to talk about it. 30
+
+13 You saw a Triangle do what? Come on, you can tell me.
+ -1  You would not want to hear it. 31
+ -2  I saw him kill a circle. 32
+
+14 Eh? How would that solve the problem?
+ -1 I don't like Trianlges, ok? 33
+ -2 It would put my mind at ease. 34
+
+15 Why not? I can help!
+ -1 No, you can't. 35
+ -2 Stop it! 36
+
+16 Hey, why not?
+ -1 Triangles caused it. 37
+ -2 Because I say so, that is why! 38
+
+17 Whoa! Where is this coming form?
+ -1  I watched as one of you killed another Circle, just for his shoes! 39
+ -2  Your shapes took my family's land and threw them into camps! 40
+
+18 Oh.. What happened?
+ -1  I came here for college, a little bit before the War began. I lost contact from them a few days after. All I had to go on were the papers. 41
+ -2  I lost contact before the War, I never heard since... 42
+
+19 Hey! What in the Nine Hells made you say that?
+ -1  Triangles started the War! They are the reason so many died! 43
+ -2  The War was caused by the greed of Triangles! 44
+
+20 Hey, a fellow Merriller! Small world is it not?
+ -1  You went to Merrill, too? Wow, it is a small world. 45
+ -2  Wow! What did you study? 46
+
+21 UCSC? I went there myself. Was a bit smaller back in my day, but it is still a good school.
+ -1 Back in my day? You are not old enough to be using words like that. 47
+ -2 Smaller? It has always been big. When did you go there? 48
+
+22 Why can't you tell me where you went?
+ -1 It is a little personal to tell someone that I do not know where I went to school is all. 49
+ -2  I don't like telling others my personal history, ok? 50
+
+23 What...how... Oh, ew. That is not what I meant.
+ -1  What did you mean then? 51
+ -2  Wait, what? 52
+
+24 Wait, what are you saying?
+ -1  Women would be better nature lovers. They can get something to fit better than us guys can. 53
+ -2  Wait, Am I getting this wrong? I feel like I am missing something. 54
+
+25 Ah, mothers. Mine used to make me fresh chocolate chip cookies every weekend. Oh how I miss her.
+ -1 Oh? What happened to your mother? 55
+ -2  What happened? 55
+
+26 Hee, fathers. My dad would always pull pranks on mom. Oh how it made me laugh... I miss them.
+ -1  What happened? 55
+ -2  What happened to your dad? 55
+
+27 I have been using this one for several years now. He has helped me a lot.
+ -1 Why do you need a therapist? 56
+ -2 Why do you have a therapist anyway? 56
+
+28 Come on. It might help you with your problem.
+ -1  I can't... I just can't. 57
+ -2  No one else can fix my problem. Only I can. 57
+
+29 Circles were thrown out of Circlevania ten years ago. You could not have been there the whole time.
+ -1  I was not. I came here to study for college. 58
+ -2  I still spent a lot of my life there. 59
+
+30 Why not? What is the matter?
+ -1  I just...I can't take it anymore! 60
+ -2  It is nothing.. I just...just... I just can't take it. 60
+
+31 Come on, I will not hate it.
+ -1 I saw a triangle kill another Circle for his shoes. 61
+ -2 If you say so. I saw a triangle kill another Circle. 61
+
+32 Oh god. Are you ok?
+ -1 Yeah, I am fine. It has been a few years. 62
+ -2 No, It still haunts me to this day. I can't trust anyone. 63
+
+33 Why not? We have done nothing wrong.
+ -1 You shapes started the War. I would call that something. 64
+ -2  Nothing? The War was nothing!? 64
+
+34 How would it?
+ -1  Triangles can not be trusted! That is the end of it. 65
+ -2  You can't be trusted, no one can. 65
+
+35 Come on! This is silly.
+ -1  Protecting myself is silly? 66
+ -2  Tell that to the dead. 67
+
+36 What is the matter with you!?
+ -1  Triangles... They are evil! 65
+ -2  You are all monsters! 65
+
+37 What happened?
+ -1  The War, that is what happened. 64
+ -2  The loss of my family, isolation, the War. 64
+
+38 Hey, no need to get mad.
+ -1 The dead to not get mad. I get mad for them. 67
+ -2 No need? The dead are not mad because they can't be mad anymore! 67
+
+39 Oh, that is... disturbing. Are ok?
+ -1 No I am not. How could I? 62
+ -2 Funny for you to ask, killer. 68
+
+40 Hey, I was not one of those monsters that ran those camps. I lost family to the camps as well.
+ -1  Good, feel the justice the world enacted on you! 68
+ -2  That is not enough. You must feel the pain your crimes have caused us! 68
+
+41 Oh god. I saw the papers as well. The horror stories in them...
+ -1   It was not pretty at all. 69
+ -2   I can't remember the last time I had felt so depressed. 69
+
+42 That must have been rough. I lost contact with my family around the same time.
+ -1 It was. I could not find anyone to trust after that, still have not. 63
+ -2  It shook my trust in the world. I could not find someone who could understand. 63
+
+43 Come on! The War started from a massive misunderstanding between several nations. Not just the Triangles.
+ -1  What utter lies. You would do anything to protect your sides. 68
+ -2  Oh? Who suffered the most in the War and who were the Triangles largest enemy? 70
+
+44 It was not us! We did not want anything!
+ -1 Then why do you still have land that once belonged to the Circles! 70
+ -2 Says the land stealer and child killer! 68
+
+45  It really is. I have meant several other shapes who went there as well. We meet up sometimes on Friday nights.
+ -1  Sounds like fun! May I come next time? 71
+ -2  I would love to join that! Can I? 71
+
+46 Computer Science. It was something I found interesting. Still have a group of friends that I meet with.
+ -1  Can I come next time you guys meet? 71
+ -2  Really? I never made friends there. Can I come? 71
+
+47 Oh, but I am. I am an old man.
+ -1  Nonsense, you look in the prime of your life! 72
+ -2  Stop pulling yourself down! That is completely wrong! 72
+
+48 About three decades ago. Feels even longer now...
+ -1 Really? You don't look that old. 72
+ -2  What. I do not believe that. You are not that old! 72
+
+49 Fair enough. I used to be like that.
+ -1 Yeah. I used to be worst until I met my wife. 73
+ -2 Not as bad I was. My wife relly helped me with that. 73
+
+50 Ok, alright. I can understand that.
+ -1 Sorry about it. I just have trouble with people without my wife around. 73
+ -2 Sorry, I am extremely shy. My wife has spent the past few years getting me out of my shell. 73
+
+51 I meant nature lover as in, do you like nature. I have no idea where you got the other thing from.
+ -1  Oh, I have no idea myself how that happened. My head went a little nuts there. 74
+ -2  Oh god, I really went off on the wrong track there! I have no clue how that happened! 74
+
+52 I meant something else completely by that statement.
+ -1  Oh whoops. I often take words literally. Guess I did it again. 74
+ -2  ...Oh. I made a huge mistake. Sorry about that. 74
+
+53 ...What the hell are you talking about!?
+ -1  Oh... It took it literally. Sorry I do that from time to time. 74
+ -2  Ummm... I have no idea... I just go on tangents at times. Sorry about that. 74
+
+54 You really are missing the whole point. I have no idea where you were going with that.
+ -1  Yeah... I have a bad habit of doing that. 74
+ -2 Ummm... I hate I admit it, but I did not know where I was going either. 74
+
+55 I lost contact just before the War. I still don't know where they are.
+ -1 I am sorry for your loss. I lost my family as well in the War. 75
+ -2 ...I lost contact with my family just before the War as well. 75
+
+56 I lost my family during the War. I don't know what happened to them.
+ -1 I lost my family as well. I know how you feel. 75
+ -2  I understand. I do not know what happened to my family either. 75
+
+57 Why not? You can't hide away forever.
+ -1  I am scaried. 76
+ -2  I want to though. 76
+
+58 You are avoiding the question at this point. Maybe professional help might be the solving for your problem.
+ -1   Where? How? What makes you think that they can help me? 77
+ -2   I don't know, who would I go to anyway? 77
+
+59 It is not the cold, is it? You are shaking from something else.
+ -1  I am trapped. I don't know where to go, can you help me? 77
+ -2  I am not sure. How do I know if they can help? 77
+
+60 What is the matter?
+ -1  I am terrified of other shapes. Ever since the day I saw a Trianlge shoot another shape. 77
+ -2  I saw one of you shoot another Circle. I can't take it any more. 77
+
+61 Wow, that was surprising. I did not expect that.
+ -1 I still see it clear as day in front of me. I can't take it anymore. 77
+ -2  I want it to stop but I can never work up the courage to go and find help. 77
+
+62 No you are not. Have you told your wife about this?
+ -1  No, I don't want to trouble her. 78
+ -2  I ..can't. 78
+
+63 What about your wife? Do you trust her?
+ -1  Of course, she is my wife. 78
+ -2  Yes, she is there for me. She is my anchor, I would be lost without her. 78
+
+64 Oh, are you going to blame it on me?
+ -1  You? Of course not. Just on every Triangle ever! 79
+ -2  Triangles caused my pain, of course I am! 79
+
+65 We are not! Why would you even say that?
+ -1 You caused the War! Lying, stealing, cruel Triangles! 80
+ -2  What about the War? Was that no a break in trust? 80
+
+66 What? How is that protecting yourself?
+ -1 Make a shield around me, no one gets in. Keep everyone out. 81
+ -2 No one can harm me then. Not even you. 81
+
+67 What? This is about the War...
+ -1 Of course it is! Nine million Circles died in the War. How can I not get mad? 82
+ -2  My family died in the War! I am close to exploding! 82
+
+68 Come on! How can you be so cruel?
+ -1  Not as cruel an the triangles! 83
+ -2  This is not cruel, this is justice. 83
+
+69 Yeah, The photos as well...
+ -1  I can't stop imagining my family... Just make it stop! 77
+ -2  They were in those camps, it happened to them... Oh god... 77
+
+70 That was done by the United Shapes! We had nothing to do with that!
+ -1  Oh? What nation is on the security council? 84
+ -2  Why are Triangles the head of the security council then? 84
+
+71 Sure! They would love to meet another Banana Line!
+ -1  Thanks, let me know when the next one is then. 91
+ -2 Just make sure you alert me when it happens. 91
+
+72 Kind of you to say that, but it is not true.
+ -1 You can't put yourself down. You have to keep on trying! 85
+ -2 That is not how any Triangle I know acts! Pick your head up! 85
+
+73 Seems you owe a lot to your wife.
+ -1 I do, it is just I can't find a job and if she ever loses hers... I don't know what to do. 86
+ -2  Of course, I would be nothing without her. I want to thank her but all the money we have goes to food or debts. 86
+
+74 It is ok, We all have moments like that. You might be tired. Why don't you go and take a little nap and we will finish our talk some other day.
+ -1  Sounds nice to me. I am rather tired... See you again! 92
+ -2  Guess I am not working at full capacity, I need to recharge... Talk with you later then! 92
+
+75 You too? I barely know anyone not affected by the War. Strange, it was so long ago.
+ -1   It was a big war, considering how large it was it is no wonder that people are still afffected. 87
+ -2  The War took place across the Globe. It is no question that it would cause such harm. 87
+
+76  I know you do, but we shapes are social things. Here is what I will do. Tomorrow I will give you the number of my therapist. He can help.
+ -1 I hope so.. It has been a while since I had a good nights sleep. 88
+ -2  I hope you are right. I want this behind me. 88
+
+77 Calm down, and listen to me. I know a therapist. He helped me, so he can help you. I will give you his number tomorrow.
+ -1  Thank you. You are a nice friend. I don't want it to bother me again. 88
+ -2 Thank you, this is the first kind thing anyone other than my wife did for me. 88
+
+78 You need to tell her, right now. I don't care about our conversation anymore. You need to do this, for her.
+ -1 Ok, here I go.. this is for her, this is for her, this is for her... 93
+ -2  I guess so.. If this will help... 93
+
+79 Hey, it was the War, not us.
+ -1  The War, Triangles they are the same thing! 89
+ -2  There is no difference in my eyes. 89
+
+80 We did not start the War!
+ -1  Triangles fired the first shot! They did it to kill a Circle! 90
+ -2  Of course you did! It was all to kill Circles! 90
+
+81 Ok... I guess it is pointless to talk to you... Good day.
+ -1  I am safe. No one will harm me. 94
+ -2  Nothing comes close to me. Nothing can harm me. 94
+
+82 Why must you bring up that? Triangles are not the cause!
+ -1 Yes you are! It was all to take from us! 89
+ -2  They are! And they will pay! 89
+
+83 If you say that then you are no better than those monsters!
+ -1 Of course we are better than Triangles! We have justice on our side! 90
+ -2 Justice is with us! It is more than those Triangles can claim! 90
+
+84 Hey, we were voted to that position in just the past decade!
+ -1 But there you sit now! All part of the master plan! 90
+ -2  But you are still there! Circles are not even in the United Shapes! 90
+
+85 Hahahaha! You are a funny shape. I hope I can talk to you again.
+ -1  I hope so too. 95
+ -2  same here. 95
+
+86 Then just try to get a job! It will show her that you still care!
+ -1  I guess you are right. Thank you for the advice. 96
+ -2  Thanks for the tip. I will try to keep up the job hunt. 96
+
+87 I guess so. I hope next time we talk it will not be about such depressing stuff.
+ -1  I don't think it will be. 97
+ -2  I hope the same! 97
+
+88 Of course, It is what I am here for.
+ -1  Thank you. 98
+ -2  Thanks, you are a good friend. 98
+
+89 That is it. I am done. Get away from my house.
+ -1 I was going to, you would have shoot me if I stood around for much longer! 99
+ -2 I don't want to even walk by your house. It is a monster as well! 99
+
+90 Oh my god. Don't do this to me in this season.
+ -1 But of course, you have to get back to your chair and mug made from Circle parts, you monster. 100
+ -2  This is not over. 100
+
+91 So how was it honey?
+ -1  I am gong to met other Lines! 0
+ -2  I found other Lines! 0
+
+92 So how was it honey?
+ -1   I need to rest... 0
+ -2   I did something silly... I need to nap. 0
+
+93 So how was it honey?
+ -1 Honey? I need to tell you something... 0
+ -2  We need to talk. I have something to tell you. 0
+
+94 So how was it honey?
+ -1  I am still safe. 0
+ -2  No one harmed me. 0
+
+95 So how was it honey?
+ -1 I got him to laugh. 0
+ -2  He has the holiday cheer! 0
+
+96 So how was it honey?
+ -1  Fine, have you seen the list of job openings anywhere? 0
+ -2  Good, I am going to start job hunting again. 0
+
+97 So how was it honey?
+ -1 We were being sappy but it was not bad. 0
+ -2  Slightly depressing but it will be better next time! 0
+
+98 So how was it honey?
+ -1  I am going to see a therapist soon. 0
+ -2  He is going to give me the number of his therapist. 0
+
+99 So how was it honey?
+ -1 The monster has retreated, but it will be back! 0
+ -2  He is a monster, a demon! Justice will be served! 0
+
+100 So how was it honey?
+ -1 I let him know the truth. 0
+ -2 I introduced myself. 0
